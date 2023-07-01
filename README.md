@@ -19,7 +19,7 @@
 
 打开main.py，修改其中的Config字典
 
-```
+```python
 Config = {
     'Cookie': 'sessionid=498e8384w849q948q121x884ffe78ett',
     'CourseId': '16809342',  # cid https://grsbupt.yuketang.cn/pro/lms/84eubUaed9T/16809342/studycontent
