@@ -1,6 +1,6 @@
 # RainClassroomVideoDownload
 
-+ 项目介绍：下载雨课堂的视频到本地任意倍速观看
++ 项目介绍：下载雨课堂的视频到本地以便任意倍速观看
 + 项目地址：[Github@LetMeFly666/RainClassroomVideoDownload](https://github.com/LetMeFly666/RainClassroomVideoDownload)
 
 ## 起因
